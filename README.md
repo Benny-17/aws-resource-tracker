@@ -1,10 +1,10 @@
 # AWS Resource Tracker
 
-This script lists AWS resources across regions. Supported services include EC2, S3, Lambda, and RDS.
+This script tracks and lists various AWS resources across regions. Supported services include EC2, S3, Lambda, and RDS.
 
 ## Prerequisites
-- AWS CLI installed and configured with `ReadOnlyAccess`.
-- Bash terminal for executing the script.
+- AWS CLI installed and configured with `ReadOnlyAccess` permissions.
+- Bash terminal or any terminal that supports shell scripting.
 
 ## Usage
 1. Clone the repository:
